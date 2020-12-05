@@ -1,7 +1,7 @@
 # Drum-kit-using-javascript
 
-## Press the buttons or click using mouse 🖱
+## Press the Keyboard ⌨ buttons or use mouse 🖱
 
 <img src="images/drum-kit-using-javascript.jpg">
 
-Watch it <a href="https://yaseen549.github.io/https://github.com/Yaseen549/drum-kit-using-javascript/">Live</a>
+Watch it <a href="https://yaseen549.github.io/Drum-kit-using-javascript/">Live</a>
